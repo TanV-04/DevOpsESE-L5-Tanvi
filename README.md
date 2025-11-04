@@ -1,7 +1,5 @@
 # jenkins-multistage-demo
 
-# jenkins-multistage-demo
-
 A demo for a multistage Jenkins pipeline that runs Build → Test → Deploy for branches:
 dev, feature-api, feature-ui.
 
